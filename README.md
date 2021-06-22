@@ -2,6 +2,6 @@
 
 ## Dataset
 
-download from [Here][http://vis-www.cs.umass.edu/lfw/#download]. 
+download from [Here](http://vis-www.cs.umass.edu/lfw/#download) 
  - **All images as gzipped tar file**
- - ****
+
