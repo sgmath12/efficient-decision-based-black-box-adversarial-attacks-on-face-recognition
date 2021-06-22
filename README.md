@@ -6,7 +6,7 @@
 
 ## Dataset
 
- - Go to [Here](http://vis-www.cs.umass.edu/lfw/#download) and download  *All images as gzipped tar file*
+ - Go to [Here](http://vis-www.cs.umass.edu/lfw/#download) and download  "*All images as gzipped tar file*"
 
 
 ## Execute
